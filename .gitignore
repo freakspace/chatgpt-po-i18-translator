@@ -1,0 +1,5 @@
+in/*
+out/*
+!in/
+!out/
+.env
