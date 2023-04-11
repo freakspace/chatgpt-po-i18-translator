@@ -1,5 +1,6 @@
 in/*
-out/*
 !in/
 !out/
 .env
+prices.py
+spent.txt
