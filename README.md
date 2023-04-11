@@ -43,9 +43,9 @@ pip install
 mkdir in
 ```
 
-2. Add your .po files
+2. Add your .po files to the /in folder
 
-3. Run the script and follow instructions
+3. Run the script and follow the instructions
 
 ```bash
 python app.py
