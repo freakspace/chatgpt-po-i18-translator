@@ -1,5 +1,4 @@
 in/*
-!in/
 !out/
 .env
 prices.py
